@@ -4,14 +4,15 @@ My learning note
 ## Content
 
 - Back-end
-  - Golang
+  - Golang (Learning)
 - Front-end
-  - React principal
-  - React Router principal
-  - Redux principal
-  - Webpack principal
-  - Front-end performace 
+  - React principal (Done)
+  - React Router principal (Pending)
+  - Redux principal (Done)
+  - Webpack principal (Done)
+  - Front-end performace (Pending)
+  - Typescript (Pending)
 - Container
-  - Kubernetes
-- Micro-server
-- Design Patterns
+  - Kubernetes (Learning)
+- Micro-server (Learning)
+- Design Patterns (Learning)
